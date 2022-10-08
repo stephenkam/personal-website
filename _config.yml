@@ -30,11 +30,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kam
+title: Stephen KAM Fung Shek
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of Kam.
-author: Kam
-email: test@test.com
+  This is the personal website of Stephen KAM Fung Shek.
+author: Stephen KAM Fung Shek
+email: stephenkamhk@hotmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
